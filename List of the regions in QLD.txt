@@ -1,0 +1,77 @@
+Flinders
+Mareeba
+McKinlay
+Richmond
+Tablelands
+Weipa
+Cook
+Cairns
+Douglas
+Torres
+Torres Strait RC (DOGIT only)
+Aurukun
+Doomadgee
+Hope Vale
+Kowanyama
+Lockhart River
+Mapoon
+Mornington Shire
+Napranum Aboriginal
+Northern Peninsula
+Pormpuraaw
+Wujal Wujal
+Yarrabah
+Burke
+Carpentaria
+Cassowary Coast
+Cloncurry
+Croyden
+Etheridge
+Hinchinbrook
+Mt Isa
+Burdekin
+Charters Towers
+Townsville
+Isaac
+Mackay
+Whitsunday
+Barcaldine
+Barcoo
+Blackall-Tambo
+Boulia
+Central Highlands
+Diamantina
+Longreach
+Winton
+Banana
+Gladstone
+Livingstone
+Rockhampton
+Bundaberg
+North Burnett
+Fraser Coast
+South Burnett
+Western Downs
+Maranoa
+Balonne
+Murweh
+Bulloo
+Paroo
+Quilpie
+Woorabinda
+Brisbane
+Ipswich
+Gold Coast
+Logan
+Redland
+Sunshine Coast
+Noosa
+Gympie
+Somerset
+Moreton Bay
+Scenic Rim
+Lockyer Valley
+Toowoomba
+Southern Downs
+Goondiwindi
+Cherbourg
