@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    function openEmailAndClose() {
+      var recipientEmail = "team_1_land_surveying@qld.com";
+      var subject = "Your Subject";
+      var body = "Name: \nEmail: \nPhone: \nRegion/Address: \nQuery: \n";
+      var emailLink = "mailto:" + recipientEmail + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+      
+      window.location.href = emailLink;
+      
+      setTimeout(
+        function() 
+      {
+        window.close();
+      }, 
+      1000);
+    }
+  </script>
+</head>
+<body onload="openEmailAndClose()">
+  <h1>Redirecting to Email...</h1>
+</body>
+</html>

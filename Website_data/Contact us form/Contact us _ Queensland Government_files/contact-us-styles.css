@@ -1,0 +1,31 @@
+    .qg-callout__box {
+        max-width: 828px;
+        margin-left: 0;
+    }
+    .qg-forms-v2 {
+        max-width: 768px;
+    }
+    .mw-sm {
+        max-width: 768px;
+    }
+    @media only screen and (max-width: 768px) {
+        .rc-theme.choices li {
+            width: 46.5%;
+            margin-right: 7%!important;
+        }
+        .rc-theme.choices li:nth-child(2) {
+            margin-right: 0!important;
+        }
+        .rc-theme .rc-theme__with-image .rc-theme__label-desc {
+            margin-top: 10px;
+        }
+        /* fix qg-card margin in mobile, will be move to SWE global style QOL-9076 */
+        .aggregation-index #qg-primary-content {
+            padding-left: 0;
+            padding-right: 0;
+        }
+        .aggregation-index .qg-cards .qg-card {
+            padding-right: 1em;
+            padding-left: 1em;
+        }
+    }
