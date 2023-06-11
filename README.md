@@ -11,7 +11,7 @@ Integration steps:
 
 # Login credentials
 1. The login credentials to configure the chatbot can be found in the `Read_me Chatbot configuration.docx` file.
-2. The chatbot can be configured by logging in to `https://hellotars.com/`.
+2. The chatbot can be configured by logging in to https://hellotars.com/.
 3. The "Read_me Chatbot configuration.docx" file is submitted in a zip file. (Not in this GitHub repo)
 
 # Chatbot training data
